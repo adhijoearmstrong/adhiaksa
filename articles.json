@@ -1,0 +1,41 @@
+{
+  "title": "Shore Katalog",
+  "articles": [
+    {
+      "id": "1",
+      "title": 
+        "Fast Cleaning",
+      "image": 
+        "https://shoesandcare.com/assets/front/img/fc.webp",
+      "deskripsi": 
+        "Fast cleaning merupakan pencucian instan pada bagian upper dan midsole yang bisa ditunggu selama 15-30 menit."
+    },
+    {
+      "id": "2",
+      "title": 
+        "Deep Cleaning"
+      "image": 
+        "https://shoesandcare.com/assets/front/img/dc.webp"
+      "deskripsi": 
+        "Perawatan pembersihan sepatu secara detail dan menyeluruh pada seluruh bagian."
+    },
+    {
+      "id": "3",
+      "title": 
+        "Repair",
+      "image": 
+        "https://shoesandcare.com/assets/front/img/rpr.webp",
+      "deskripsi": 
+        "Perawatan restorasi pada sepatu yang rusak untuk dikembalikan seperti semula."
+    },
+    {
+      "id": "4",
+      "title": 
+        "Repaint & Unyellowing",
+      "image": 
+        "hhttps://shoesandcare.com/assets/front/img/rp.webp",
+      "deskripsi": 
+        "Perawatan restorasi warna dengan penggunaan cat khusus yang ditujukan untuk mengembalikan warna awal sepatu seperti semula."
+    }
+  ]
+}
